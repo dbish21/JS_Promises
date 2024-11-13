@@ -1,0 +1,18 @@
+body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+#card-area {
+    margin: 20px 0;
+}
+
+#card-area img {
+    margin: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
